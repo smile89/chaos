@@ -7,7 +7,7 @@ import java.util.Random;
 
 public class UnitTest {
     public int intAdd(int a, int b) {
-        return a + b - 1;
+        return a + b;
     }
 
     public int intSubtract(int a, int b) {
